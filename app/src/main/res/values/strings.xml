@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HomeRepair</string>
+    <string name="etNombre1">Nombre</string>
+    <string name="etNombre2">Nombre</string>
+    <string name="BotonRegresar">Regresar</string>
+    <string name="app_title">InteractiveLearning</string>
+    <string name="Btn_registro">Registrarse</string>
+    <string name="Btn_isesion">Iniciar Sesión</string>
+    <string name="img_description">Imagen de la App</string>
+    <string name="form_title">Formulario Diagnostico</string>
+
+    // Hints User Register Form
+    <string name="people_name">Nombre</string>
+    <string name="username">Tipo (Portatil/Escritorio)</string>
+    <string name="password">Serial</string>
+    <string name="englih_level">Criticidad (Alta/Media/Baja)</string>
+    <string name="crear_cuenta">Enviar solicitud</string>
+    <string name="result">Resultado</string>
+    <string name="return_to_class">Salir</string>
+    <string name="mss_welcome">Tu diagnostico de pc es:</string>
+</resources>
